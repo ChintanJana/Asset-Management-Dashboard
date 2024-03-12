@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65e9b0f967cd32c3b3c68107"
+  },
+  "metric_id": "1",
+  "asset_id": "1",
+  "metric_name": "downtime",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "65e9b10967cd32c3b3c68108"
+  },
+  "metric_id": "2",
+  "asset_id": "1",
+  "metric_name": "maintenance_costs",
+  "value": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9b11567cd32c3b3c68109"
+  },
+  "metric_id": "3",
+  "asset_id": "1",
+  "metric_name": "failure_rate",
+  "value": 0.05
+},
+{
+  "_id": {
+    "$oid": "65e9b12867cd32c3b3c6810a"
+  },
+  "metric_id": "4",
+  "asset_id": "2",
+  "metric_name": "downtime",
+  "value": 5
+},
+{
+  "_id": {
+    "$oid": "65e9b13567cd32c3b3c6810b"
+  },
+  "metric_id": "5",
+  "asset_id": "2",
+  "metric_name": "maintenance_costs",
+  "value": 800
+},
+{
+  "_id": {
+    "$oid": "65e9b14167cd32c3b3c6810c"
+  },
+  "metric_id": "6",
+  "asset_id": "2",
+  "metric_name": "failure_rate",
+  "value": 0.03
+},
+{
+  "_id": {
+    "$oid": "65e9b15067cd32c3b3c6810d"
+  },
+  "metric_id": "7",
+  "asset_id": "3",
+  "metric_name": "downtime",
+  "value": 15
+},
+{
+  "_id": {
+    "$oid": "65e9b15d67cd32c3b3c6810e"
+  },
+  "metric_id": "8",
+  "asset_id": "3",
+  "metric_name": "maintenance_costs",
+  "value": 1500
+},
+{
+  "_id": {
+    "$oid": "65e9b16a67cd32c3b3c6810f"
+  },
+  "metric_id": "9",
+  "asset_id": "3",
+  "metric_name": "failure_rate",
+  "value": 0.1
+},
+{
+  "_id": {
+    "$oid": "65e9c227ad5728fb538a31d4"
+  },
+  "metric_id": "1",
+  "asset_id": "1",
+  "metric_name": "downtime",
+  "value": 20
+}]
