@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65e9892beafe43e048d77e5f"
+  },
+  "asset_id": "1",
+  "asset_name": "Machine 1",
+  "asset_type": "Machine",
+  "location": "Factory A",
+  "purchase_date": "2022-01-01",
+  "initial_cost": 5000,
+  "operational_status": "Operational"
+},
+{
+  "_id": {
+    "$oid": "65e98ef39a398c5cb6bce6e7"
+  },
+  "asset_id": "2",
+  "asset_name": "Machine 2",
+  "asset_type": "Machine",
+  "location": "Factory B",
+  "purchase_date": "2022-02-01",
+  "initial_cost": 6000,
+  "operational_status": "Operational"
+},
+{
+  "_id": {
+    "$oid": "65e98f255f27804a9a869285"
+  },
+  "asset_id": "3",
+  "asset_name": "Vehicle 1",
+  "asset_type": "Vehicle",
+  "location": "Warehouse",
+  "purchase_date": "2022-03-01",
+  "initial_cost": 10000,
+  "operational_status": "Under Maintenance"
+}]
